@@ -32,7 +32,7 @@ map.html
         <body>
             <h1 align="center">VELLORE</h1>
             <h2 align="center">YUVASREE S (25014102)</h2>
-        <img src="Screenshot 2025-09-22 092355.png" height="600" width="1500" usemap="image-map">
+        <img src="Map.png" usemap="image-map">
 
          <map name="image-map">
          <area target="" alt="Golden temple" title="Golden temple" href="temple.html" coords="392,564,575,639" shape="rect">
