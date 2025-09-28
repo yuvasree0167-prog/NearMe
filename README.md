@@ -32,7 +32,7 @@ map.html
         <body>
             <h1 align="center">VELLORE</h1>
             <h2 align="center">YUVASREE S (25014102)</h2>
-        <img src="Map.png" usemap="image-map">
+        <img src="map.png" usemap="image-map">
 
          <map name="image-map">
          <area target="" alt="Golden temple" title="Golden temple" href="temple.html" coords="392,564,575,639" shape="rect">
@@ -47,13 +47,9 @@ map.html
 
 temple.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<html>
+
 <body bgcolor="pink">
     <h1 align="center">GOLDEN TEMPLE</h1>
     <hr size="2>"
@@ -68,13 +64,9 @@ temple.html
 
 water.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<html>
+
 <body bgcolor="cyan">
     <h1 align="center">PULIMEDU WATERFALLS</h1>
     <hr size="2">
@@ -86,13 +78,9 @@ water.html
 
 home.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<html>
+
 <body bgcolor="purple">
     <h1 align="center">SHALOM BHAVAN</h1>
     <hr size="2">
@@ -104,13 +92,9 @@ home.html
 
 hills.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<html>
+
 <body bgcolor="yellow">
     <h1 align="center">PALAMATHI HILLS</h1>
     <hr size="2">
@@ -123,13 +107,8 @@ hills.html
 
 retreat.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+<html>
+
 <body bgcolor="violet">
     <h1 align="center">VINMEEN RETREAT</h1>
     <hr size="2">
@@ -140,7 +119,8 @@ retreat.html
 </html>
 ```
 ## OUTPUT
-![alt text](<Map .png>)
+
+![alt text](map.png)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
