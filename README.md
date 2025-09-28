@@ -47,13 +47,9 @@ map.html
 
 temple.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<html>
+
 <body bgcolor="pink">
     <h1 align="center">GOLDEN TEMPLE</h1>
     <hr size="2>"
@@ -68,13 +64,9 @@ temple.html
 
 water.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<html>
+
 <body bgcolor="cyan">
     <h1 align="center">PULIMEDU WATERFALLS</h1>
     <hr size="2">
@@ -86,13 +78,9 @@ water.html
 
 home.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<html>
+
 <body bgcolor="purple">
     <h1 align="center">SHALOM BHAVAN</h1>
     <hr size="2">
@@ -104,13 +92,9 @@ home.html
 
 hills.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<html>
+
 <body bgcolor="yellow">
     <h1 align="center">PALAMATHI HILLS</h1>
     <hr size="2">
@@ -123,13 +107,9 @@ hills.html
 
 retreat.html
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
+
+<html>
+
 <body bgcolor="violet">
     <h1 align="center">VINMEEN RETREAT</h1>
     <hr size="2">
