@@ -140,8 +140,7 @@ retreat.html
 </html>
 ```
 ## OUTPUT
-
-![alt text](<yuva/mapapp/static/Screenshot 2025-09-22 092355.png>)
+![alt text](<Map .png>)
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
